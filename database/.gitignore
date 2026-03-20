@@ -1,0 +1,25 @@
+*.sqlite*
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/app/public
+/bootstrap/cache/*
+.env
+.env.*
+.phpunit.result.cache
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Laravel Mix / Vite
+/public/build
+/public/hot

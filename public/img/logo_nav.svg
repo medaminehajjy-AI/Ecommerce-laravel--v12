@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <!-- Cart Icon -->
+  <g fill="#00cfff">
+    <path d="M20 20h60l20 40H40z"></path>
+    <circle cx="30" cy="70" r="5"></circle>
+    <circle cx="70" cy="70" r="5"></circle>
+  </g>
+  <!-- Text -->
+  <text x="100" y="60" font-family="Arial, sans-serif" font-size="40" fill="#111111">
+    LME390L
+  </text>
+  <text x="260" y="60" font-family="Arial, sans-serif" font-size="40" fill="#00cfff">
+    Store
+  </text>
+</svg>

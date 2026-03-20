@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150">
+  <!-- Professional Cart Icon -->
+  <g fill="#00CFFF">
+    <!-- Cart body -->
+    <path d="M20 40 H80 L70 90 H30 Z" stroke="#00CFFF" stroke-width="2" fill="none"></path>
+    <!-- Wheels -->
+    <circle cx="30" cy="95" r="5"></circle>
+    <circle cx="70" cy="95" r="5"></circle>
+    <!-- Handle -->
+    <line x1="20" y1="40" x2="10" y2="30" stroke="#00CFFF" stroke-width="2"></line>
+  </g>
+
+  <!-- Logo Text -->
+  <text x="110" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    <tspan fill="#FFFFFF">LME390L</tspan>
+    <tspan fill="#00CFFF">Store</tspan>
+  </text>
+</svg>
